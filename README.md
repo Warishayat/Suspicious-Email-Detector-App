@@ -1,4 +1,3 @@
-``markdown
 # Suspicious Email Detector
 
 ## Overview
